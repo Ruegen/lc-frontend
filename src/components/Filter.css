@@ -1,0 +1,27 @@
+.filter-box {
+    padding: 0;
+    background: white;
+    position: absolute;
+    top: 10vh;
+    left: .5em;
+    z-index: 1;
+    border-radius: .2em;
+    text-align: center;
+    box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+
+.filter-box h4 {
+    background: #22313F;
+    color: white;
+    padding: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin: 0px;
+    font-size: .75rem;
+}
+
+.filter-box select {
+    margin: 1em;
+    background: white;
+    border: none;
+}
