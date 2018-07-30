@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-direction: row;
+    height: calc(100% - 2.6em);
+}
+
+.mapboxgl-map {
+    margin: 0;
+    width: 80%;
+    box-sizing: border-box;
+}
+
