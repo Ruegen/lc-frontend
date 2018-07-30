@@ -1,0 +1,8 @@
+nav {
+    font-size: .8em;
+    color: rgba(88,89,89,.6);
+    background: white;
+    width: 100vw;
+    padding: 1em;
+    box-sizing: border-box;
+}
