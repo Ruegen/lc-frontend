@@ -131,7 +131,7 @@ export default class PropertiesPage extends Component {
                 </Layer>
             </Map>
             <Filter handleChange={this.filterProperties} councils={councils} />
-            <Info className="info-box" property={currentProperty}/>
+            <Info property={currentProperty}/>
         </main>
 
         </Fragment>
